@@ -1,0 +1,19 @@
+{
+	"name": "nodeuploads",
+	"version": "1.0.0",
+	"description": "image uploading in node.js using multer",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"keywords": [
+		"multer"
+	],
+	"author": "sagarsehwag",
+	"license": "ISC",
+	"dependencies": {
+		"ejs": "^2.6.1",
+		"express": "^4.16.4",
+		"multer": "^1.4.1"
+	}
+}
